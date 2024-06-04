@@ -3,8 +3,7 @@
 ---
 
 Bem-vindo ao repositório **Automated Test Pots**! Aqui é o 
-Alan, e eu gostaria de compartilhar um pouco sobre minha jornada. 
-Atuei por 3 anos como QA, e agora estou do outro lado da força (haha), 
+Alan, atuei por 3 anos como QA, e agora estou do outro lado da força (haha), 
 como Desenvolvedor. Mesmo com essa transição, meu objetivo permanece 
 o mesmo: garantir a qualidade dos softwares e oferecer todo o apoio 
 necessário ao time de QA.
