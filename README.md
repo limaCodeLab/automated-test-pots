@@ -35,7 +35,8 @@ o repositório está organizado da seguinte forma:
 
 - **Estrutura interna dos diretórios**
     - Codigo fonte com exemplos/Scripts de teste.
-    - Documentação 
+    - Documentação
+      - Arquitetura     
       - Configurações de projeto/ambiente
       - Tutoriais
       - Melhores práticas
