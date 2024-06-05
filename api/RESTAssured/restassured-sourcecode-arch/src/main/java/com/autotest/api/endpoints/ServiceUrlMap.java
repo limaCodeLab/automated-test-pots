@@ -1,4 +1,4 @@
-package com.autotest.api.endpoits;
+package com.autotest.api.endpoints;
 
 import com.autotest.api.utils.readers.PropertiesReader;
 
