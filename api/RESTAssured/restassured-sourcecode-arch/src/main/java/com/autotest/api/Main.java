@@ -1,6 +1,6 @@
 package com.autotest.api;
 
-import com.autotest.api.endpoits.ServiceUrlMap;
+import com.autotest.api.endpoints.ServiceUrlMap;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -15,7 +15,7 @@ public class Main {
         System.out.println(smap.getALBUMS_URL());
         System.out.println(smap.getPHOTOS_URL());
         System.out.println(smap.getTODOS_URL());
-        System.out.println(smap.);
+        System.out.println(smap.getUSERS_URL());
 
     }
 }
